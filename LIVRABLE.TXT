@@ -1,3 +1,3 @@
-GitHub Link : https://github.com/ln-dev7/OC-Projects/tree/master/Web-Integrator/P5/Print_it_JS
+GitHub Link : https://github.com/ln-dev7/oc-print-it-js/
 
-WebSite Link : https://ln-oc-projects-wi-p5.vercel.app/
+WebSite Link : https://ln-dev7.github.io/oc-print-it-js/
